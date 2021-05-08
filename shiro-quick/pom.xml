@@ -19,7 +19,7 @@
 		<commons-dbcp-version>1.4</commons-dbcp-version>
 		<commons-pool-version>1.5.4</commons-pool-version>
 		<commons-codec-version>1.6</commons-codec-version>
-		<shiro.version>1.5.2</shiro.version>
+		<shiro.version>1.6.0</shiro.version>
 	</properties>
 	<build>
 		<resources>

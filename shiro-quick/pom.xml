@@ -19,7 +19,8 @@
 		<commons-dbcp-version>1.4</commons-dbcp-version>
 		<commons-pool-version>1.5.4</commons-pool-version>
 		<commons-codec-version>1.6</commons-codec-version>
-		<shiro.version>1.6.0</shiro.version>
+
+		<shiro.version>1.7.1</shiro.version>
 	</properties>
 	<build>
 		<resources>
@@ -183,7 +184,7 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.4</version>
+			<version>2.7</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-lang</groupId>
